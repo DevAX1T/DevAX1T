@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DevAX1T
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+# henlo
+
+I'm DevAX1T. I code and stuff.
+
+I've been practicing JavaScript for about three months and I've been using Lua for around 4 years.
 
 <!---
 DevAX1T/DevAX1T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
