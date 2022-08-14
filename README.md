@@ -1,10 +1,21 @@
+<div align="center">
+    <h1>DevAX1T</h1>
+   <h3><b>Advanced Luau and JavaScript programmer.</b></h3>
+</div>
 
-# henlo
 
-I'm DevAX1T. I code and stuff.
+## Introduction
+Hello! I am DevAX1T, and I've been programming for around 4 years as of 2022.
+Currently, I know JavaScript and Luau.
 
-I've been practicing JavaScript for about a year (and I'm pretty good at it) and I've been using Lua for around 4 years.
+### Open Source Projects
+* [RbxCloud](https://github.com/DevAX1T/rbxcloud) (2022)
+  * RbxCloud is an easy way to interact with Roblox experiences using their recently-released Open Cloud API.
 
-Most of my projects are closed-source, but I upload things here from time to time.
+### Job Experiences
+* State of Swanford (2022 - present)
+  * Unreleased.
 
-DevAX1T#0001
+
+## Contact
+I can be reached via Discord. My tag is `DevAX1T#0001`.
