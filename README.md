@@ -19,3 +19,7 @@ Currently, I know JavaScript and Luau.
 
 ## Contact
 I can be reached via Discord. My tag is `DevAX1T#0001`.
+
+## Links
+* [Roblox Profile](https://www.roblox.com/users/125196014/profile)
+* [Roblox Developer Forum](https://devforum.roblox.com/u/devax1t)
