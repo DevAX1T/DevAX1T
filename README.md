@@ -11,6 +11,8 @@ Currently, I know JavaScript and Luau.
 ### Open Source Projects
 * [RbxCloud](https://github.com/DevAX1T/rbxcloud) (2022)
   * RbxCloud is an easy way to interact with Roblox experiences using their recently-released Open Cloud API.
+* [Wave](https://github.com/DevAX1T/wave) (2022)
+  * Wave was a private moderation bot created in JavaScript. It was created when I was somewhat new to JS. It has been archived and is no longer being maintained.
 
 ### Job Experiences
 * State of Swanford (2022 - present)
