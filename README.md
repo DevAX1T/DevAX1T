@@ -1,12 +1,12 @@
 <div align="center">
     <h1>DevAX1T</h1>
-   <h3><b>Advanced Luau and JavaScript programmer.</b></h3>
+   <h3><b>Luau and JavaScript programmer.</b></h3>
 </div>
 
 
 ## Introduction
 Hello! I am DevAX1T, and I've been programming for around 4 years as of 2022.
-Currently, I know JavaScript and Luau.
+I would say that I'm an advanced Luau programmer, while I'd rate myself at an intermediate level with JavaScript.
 
 ### Open Source Projects
 * [RbxCloud](https://github.com/DevAX1T/rbxcloud) (2022) [JavaScript]
