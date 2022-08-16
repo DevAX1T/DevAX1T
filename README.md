@@ -23,5 +23,6 @@ I would say that I'm an advanced Luau programmer, while I'd rate myself at an in
 I can be reached via Discord. My tag is `DevAX1T#0001`.
 
 ## Links
+* [npm Profile](https://www.npmjs.com/~devax1t)
 * [Roblox Profile](https://www.roblox.com/users/125196014/profile)
 * [Roblox Developer Forum](https://devforum.roblox.com/u/devax1t)
