@@ -9,9 +9,9 @@ Hello! I am DevAX1T, and I've been programming for around 4 years as of 2022.
 Currently, I know JavaScript and Luau.
 
 ### Open Source Projects
-* [RbxCloud](https://github.com/DevAX1T/rbxcloud) (2022)
+* [RbxCloud](https://github.com/DevAX1T/rbxcloud) (2022) [JavaScript]
   * RbxCloud is an easy way to interact with Roblox experiences using their recently-released Open Cloud API.
-* [Wave](https://github.com/DevAX1T/wave) (2022)
+* [Wave](https://github.com/DevAX1T/wave) (2022) [JavaScript]
   * Wave was a private moderation bot created in JavaScript. It was created when I was somewhat new to JS. It has been archived and is no longer being maintained.
 
 ### Job Experiences
