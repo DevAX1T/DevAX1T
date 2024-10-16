@@ -18,10 +18,10 @@ I would say that I'm an advanced Luau programmer, while I'd rate myself at an in
 * [mayLOG](https://github.com/DevAX1T/mayLOG) (2023) [TypeScript]
   * mayLOG is a bot to log Roblox RoState department actions, monitor in-game activity, and more. [Version One Source Code is here.](https://github.com/DevAX1T/mayLOG_V1)
 
+<!--
 ### Job Experiences
-* N/A
-
-###
+* i will fill this out later
+-->
 
 ## Contact
 I can be reached via Discord: `DevAX1T#0` (`212772501141323776`)
