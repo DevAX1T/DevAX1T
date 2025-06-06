@@ -24,7 +24,7 @@ I would say that I'm an advanced Luau programmer, while I'd rate myself at an in
 -->
 
 ## Contact
-I can be reached via Discord: `DevAX1T#0` (`212772501141323776`)
+I can be reached via Discord: `@devax1t` (`212772501141323776`)
 
 ## Links
 * [npm Profile](https://www.npmjs.com/~devax1t)
@@ -32,7 +32,7 @@ I can be reached via Discord: `DevAX1T#0` (`212772501141323776`)
 * [Roblox Developer Forum](https://devforum.roblox.com/u/devax1t)
 
 ## Statistics
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAX1T&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevAX1T&count_private=true&show_icons=true&bg_color=00000000&text_color=808080&hide_border=true" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=DevAX1T&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAX1T&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAX1T&count_private=true&show_icons=true&bg_color=00000000&text_color=808080&hide_border=true" />
  
